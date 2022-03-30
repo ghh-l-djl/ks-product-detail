@@ -6,7 +6,6 @@ import RefundDescription from '@/view/RefundDescription';
 import User from '@/view/User';
 import Service from '@/view/Service';
 import {RouteObject} from 'react-router-dom'
-import {lazy} from 'react';
 const routes:Array<RouteObject>=[
     {
         path:'/',

@@ -1,4 +1,4 @@
-import { useEffect,useState,createContext, useContext } from 'react';
+import { useEffect,useState} from 'react';
 import { getDetails } from '@/api';
 import Carousel from '@/components/Carousel';
 import Introduction from '@/components/Introduction';
@@ -30,7 +30,6 @@ export default function Index() {
             refundRuleVO:{}
         }
     } as unknown as ProductDetail);
-    const [isGuessShow,setGuess] =useState(false);
     useEffect(() => {
         getDetails().then((res:any) => {
             const {productDetail,avatar,shopInfo,soldNewAmountDescV2,soldNewAmountV2,compScoreView} =res.data;

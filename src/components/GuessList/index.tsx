@@ -1,6 +1,6 @@
 import './index.less';
 import GuessCard from '@/components/GuessCard';
-import { InfiniteScroll, DotLoading } from 'antd-mobile';
+import { InfiniteScroll } from 'antd-mobile';
 import { useEffect, useState } from 'react';
 import { getGuess, List } from '@/api';
 export default function Guesslist() {
@@ -21,13 +21,6 @@ export default function Guesslist() {
             setHasMore(res.data.data.hasMore);
         })
     }, []);
-    const fetchData = (page: number) => {
-        getGuess(page).then((res) => {
-            console.log('res: ', res.data);
-            setList(val => [...val, ...res.data.data.list])
-            setHasMore(res.data.data.hasMore);
-        })
-    }
     return (
         <div>
             <div className="guess-header">

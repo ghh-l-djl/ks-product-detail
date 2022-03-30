@@ -1,7 +1,4 @@
 import { Popup,Divider } from 'antd-mobile'
-import {useSelector} from 'react-redux';
-import { RootState } from '@/store';
-import {useToggleDiscount} from '@/store/action';
 import './index.less';
 type Props={
     title:string,
@@ -11,7 +8,7 @@ type Props={
     type:'discount'|'service',
     withDivider?:boolean
 }
-export default function (props:Props) {
+export default function Pop(props:Props) {
     const {title,children,visible,handler,type,withDivider} = props;
     return (
         <Popup
