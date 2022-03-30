@@ -1,0 +1,269 @@
+{
+    "hiddenConfig": {
+        "hiddenVolume": true,
+        "hiddenAddress": false,
+        "hiddenDeliveryTime": false,
+        "hiddenStock": false,
+        "hiddenExpressFee": false
+    },
+    "orderLinkInfo": {
+        "jumpUrl": "",
+        "native": false
+    },
+    "compScoreView": {
+        "hasData": true,
+        "compScoreLabel": "购物体验星级",
+        "compScoreStars": 4,
+        "compScoreDesc": null,
+        "scoreData": [
+            {
+                "key": "商品质量",
+                "value": 4.5,
+                "valueDes": "",
+                "type": 1,
+                "rankingPercent": 34,
+                "fontColor": "#9C9C9C"
+            },
+            {
+                "key": "客服服务",
+                "value": 4.5,
+                "valueDes": "",
+                "type": 1,
+                "rankingPercent": 60,
+                "fontColor": "#9C9C9C"
+            },
+            {
+                "key": "物流速度",
+                "value": 4.5,
+                "valueDes": "",
+                "type": 1,
+                "rankingPercent": 42,
+                "fontColor": "#9C9C9C"
+            },
+            {
+                "key": "售后体验",
+                "value": 4.5,
+                "valueDes": "",
+                "type": 1,
+                "rankingPercent": 19,
+                "fontColor": "#9C9C9C"
+            }
+        ],
+        "hidden": false,
+        "showBackground": false,
+        "starColor": "#FF7429"
+    },
+    "seckill": null,
+    "sellerTagList": [],
+    "buyStarExperience": true,
+    "result": 1,
+    "sellerShopTagList": [],
+    "buttonInfo": {
+        "buttonDesc": false,
+        "buttonBottomDesc": null
+    },
+    "soldNewAmountDescV2": "总销量",
+    "singleSku": 1,
+    "soldNewAmountV2": "83件",
+    "shopInfo": {
+        "shopId": 83309395,
+        "shopName": "sir东东东的小店",
+        "shopType": 6,
+        "shopTypeName": "",
+        "shopClosePublicity": ""
+    },
+    "hasSoldNewAmount": true,
+    "useCompScore": true,
+    "productDetail": {
+        "itemId": 394793069395,
+        "title": "测试商品勿拍不发货快手小块",
+        "price": 22800,
+        "promotedPrice": 22600,
+        "marketPrice": 0,
+        "subsidyPrice": 0,
+        
+        "serviceRule": {
+            "officialGuarantee": false,
+            "refundNoReturn": false,
+            "freightInsuranceRule": null,
+            "tripleForOneFake": false,
+            "firstOrderGuaranteeFlag": false,
+            "refundRule": "1",
+            "depositRule": "2",
+            "certificateGuarantee": "0",
+            "refundRuleVO": {
+                "code": "1",
+                "title": "支持7天无理由退货",
+                "text": "满足相应条件时，消费者可申请“七天无理由退换货”"
+            },
+            "theDayOfDeliverGoodsTime": -1,
+            "openFastRefund": true,
+            "fastDelivery": false,
+            "saleFlag": true,
+            "promiseDeliveryTime": 172800,
+            "supportByJd": false,
+            "orderPurchaseLimitType": 0,
+            "minOrderCount": 0,
+            "maxOrderCount": 0
+        },
+        "sellerId": 83309395,
+        "promoterId": 83309395,
+        "addType": 0,
+        "userId": 83309395,
+        "nickName": "sir东东东",
+        "detailImageUrls": [
+            "https://p2.eckwai.com/ufile/adsocial/1063e77d-5430-4747-a4b5-963b6ef41941.jpg",
+            "https://p3.eckwai.com/ufile/adsocial/cdb18b93-097f-4a4b-ae97-4f44e22debef.jpg",
+            "https://p1.eckwai.com/ufile/adsocial/2911125d-283b-4154-90ff-6d513849b344.jpg"
+        ],
+        "details": "非常可爱好玩的手办，收藏价值高",
+        "skuInfoList": [
+            {
+                "skuId": 394793071395,
+                "specification": "规格",
+                "skuStock": 98,
+                "skuSalePrice": 22800,
+                "skuMarketPrice": 0,
+                "imageUrl": "https://p2.eckwai.com/ufile/adsocial/0049a1ad-f570-4a6b-9b32-a51991ac59a7.jpg",
+                "skuDesc": "规格",
+                "volume": 1,
+                "appkey": "",
+                "relSkuId": 0,
+                "skuNick": "",
+                "skuSpecificationParamList": null,
+                "unlimitedStock": null,
+                "skuCouponPrice": 22600,
+                "installmentRuleDesc": null,
+                "skuCertificateProp": null,
+                "propValueIds": [],
+                "couponType": 1,
+                "couponName": "预估到手价",
+                "couponId": "co_fcf25a923a63f707d8cacb1ed27a1757LtkZQFZEeq8",
+                "quotePriceDetail": {
+                    "priceDesc": "原价",
+                    "priceValue": "228",
+                    "quotePriceEntries": [
+                        {
+                            "discountTypeDesc": "店铺券",
+                            "discountDesc": "满3减2",
+                            "discountPriceValue": "2"
+                        }
+                    ],
+                    "promotedPriceDesc": "到手价",
+                    "promotedPriceValue": "226"
+                },
+                "userReceiveCouponStatus": 1,
+                "spType": 0
+            }
+        ],
+        "expressFee": 0,
+        "address": "北京市 市辖区 海淀区",
+        "soldAmount": 0,
+        "itemLinkUrl": null,
+        "imageUrls": [
+            "https://p3.eckwai.com/ufile/adsocial/1dc759e9-7c62-4ca8-9444-11891bdcbaa1.jpg",
+            "https://s3.bmp.ovh/imgs/2022/03/40c0b86f9d992c17.png"
+        ],
+        "itemCdnPicUrl": null,
+        "sourceType": 99,
+        "platformFeeRatio": 0,
+        "categoryId": 1388,
+        "isPurchaseLimit": 0,
+        "purchaseLimitCount": 0,
+        "minPurchaseLimitCount": 1,
+        "purchaseLimitDesc": "",
+        "expressTemplateId": 4265466495,
+        "expressTemplate": {
+            "id": 4265466495,
+            "name": "赵东东",
+            "sellerId": 83309395,
+            "calType": 1,
+            "sendProvinceCode": 11,
+            "sendProvinceName": "北京市",
+            "sendCityCode": 1101,
+            "sendCityName": "市辖区",
+            "sendDistrictCode": 110101,
+            "sendDistrictName": "东城区",
+            "sendTime": 12,
+            "used": false,
+            "status": 1,
+            "sourceType": 0,
+            "deleteTime": 0,
+            "config": "{\"type\":1,\"content\":{\"includeProvinces\":[11,12,13,14,15,21,22,23,31,32,33,34,35,36,37,41,42,43,44,45,46,50,51,52,53,54,61,62,63,64,65],\"excludeProvinces\":[],\"provinceFees\":[]},\"delayExpressCompanyList\":null}",
+            "createTime": 1596180383044,
+            "updateTime": 1596180383044,
+            "delayCompanyList": null
+        },
+        "itemCommentCount": 0,
+        "itemCommentRecoList": [],
+        "tagList": [],
+        "buyerCommentEnable": 1,
+        "hasVideoRelateProduct": false,
+        "videoNotRelateProductReason": null,
+        "videoBO": null,
+        "couponList": [],
+        "couponPackageInfos": [],
+        "itemTagList": [],
+        "bannerImage": {
+            "fontColor": null,
+            "picUrl": null,
+            "code": null,
+            "picWidth": 0,
+            "picHeight": 0,
+            "stretch": null
+        },
+        "hasLiveRecordVideo": false,
+        "liveRecordVideoUrl": null,
+        "hasShopNewCoupon": false,
+        "shopNewCouponId": null,
+        "received": false,
+        "showPromotion": 1,
+        "promotedPriceTitle": "预估到手价",
+        "couponType": 1,
+        "couponId": "co_fcf25a923a63f707d8cacb1ed27a1757LtkZQFZEeq8",
+        "discountPrice": 0,
+        "couponEffictiveTime": 0,
+        "atmosphereType": 0,
+        "agreementType": 0,
+        "activityInfo": null,
+        "itemSaleStatus": {
+            "saleStatus": 0,
+            "time": 0,
+            "startCountDown": 0
+        },
+        "bottomTips": null,
+        "soldOutABTest": true,
+        "itemStatus": 1,
+        "installmentRuleDesc": "",
+        "defaultCertificateProp": null,
+        "skuRefreshMark": false,
+        "skuNumDesc": null,
+        "showMultiSkuImgs": false,
+        "shelfItemModel": "",
+        "crossBorderInfo": null,
+        "riskTipsUrl": null,
+        "promoterDesc": null,
+        "buyButtonCanClick": true,
+        "expressInfo": {
+            "deliveryDesc": "48小时内"
+        }
+    },
+    "nickName": "sir东东东",
+    "sex": "M",
+    "itemCategoryImageProps": [],
+    "ABTest": {
+        "h5DetailABTest": "{\"newBaseInfo\":true,\"newCommentInfo\":true,\"newShopInfo\":true,\"newDetailInfo\":true,\"guessABTest\":false}"
+    },
+    "avatar": "https://tx2.a.kwimgs.com/uhead/AB/2020/08/03/11/BMjAyMDA4MDMxMTQ2MzJfODMzMDkzOTVfMV9oZDQ0Xzg4Ng==_s.jpg",
+    "sellerInfo": {
+        "relateLiveId": "",
+        "serviceExpTag": ""
+    },
+    "reduceStockType": "REDUCE_STOCK_AFTER_ORDER_CREATE",
+    "soldOutABTest": true,
+    "userShopScoreView": null,
+    "bottomTips": null,
+    "sellerWechat": "2278396836",
+    "buyNoteABTest": false,
+    "itemCategoryProps": []
+}

@@ -1,0 +1,64 @@
+.shop-card {
+    margin-top: 2.6667vw;
+    border-radius: 0%;
+
+    .adm-button {
+        color:#eb4a69;
+    }
+
+    .shop {
+        display: flex;
+        align-items: center;
+
+        .shop-avatar {
+            --border-radius: 50%;
+            --size: 46px;
+            margin-right: 2.6667vw;
+        }
+
+        .shop-info {
+            flex: 1;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            .shop-name {
+                font-size: 4.2667vw;
+                font-weight: 500;
+            }
+        }
+    }
+
+    .evaluation {
+        background-color: #f8f8f8;
+        margin-top: 3.2vw;
+        .title{
+            font-size: 3.4667vw;
+            font-weight: 600;
+            .adm-rate{
+                --star-size:2.9333vw;
+                --active-color:#ef7b3f;
+                background-color: #f0f0f0;
+                margin-left: 2.1333vw;
+                padding: 0 0.5333vw;
+                border-radius: 8px;
+            }
+        }
+        .score {
+            display: flex;
+            justify-content: space-between;
+            .score-item {
+                display: flex;
+                align-items: center;
+                font-size: 3.2vw;
+                .score-key {
+                    color: #666;
+                    margin-right: 5px;
+                }
+                .score-value {
+                    color: #9c9c9c;
+                }
+            }
+        }
+    }
+}

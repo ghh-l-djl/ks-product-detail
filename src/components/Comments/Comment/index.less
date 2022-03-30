@@ -1,0 +1,49 @@
+.comment {
+    .item{
+        .user{
+            display: flex;
+            font-size: 3.4667vw;
+            align-items: center;
+            color:#666;
+            margin: 2.6667vw 0;
+            .user-avatar {
+                --size:5.8667vw;
+                border-radius: 50%;
+                margin-right: 2.6667vw;
+            }
+        }
+        .comment-content{
+            display: block;
+            font-size: 3.4667vw;
+            margin-bottom: 2.6667vw;
+        }
+        .image{
+            display: flex;
+            justify-content: space-between;
+            .adm-image{
+                width: 21.3333vw;
+                height: 21.3333vw;
+                flex:0 0 21.3333vw;
+                border: 1px solid #ccc;
+                border-radius: 5%;
+            }
+            .comment-image-wrap {
+                position: relative;
+                .overlay {
+                    position: absolute;
+                    left: 0;
+                    right: 0;
+                    top: 0;
+                    bottom:0;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background-color: rgba(221, 209, 209, 0.507);
+                    color:white;
+                }
+            }
+        }
+    }
+    
+    
+}
